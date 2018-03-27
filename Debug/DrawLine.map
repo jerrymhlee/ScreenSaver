@@ -1,0 +1,1275 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc175x_6x.o (SystemInit)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memset.o)
+                              ./src/drawTree.o (memset)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o)
+                              ./src/drawTree.o (cos)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o)
+                              ./src/drawTree.o (time)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+                              ./src/drawTree.o (printf)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o) (_initio)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+                              ./src/drawTree.o (pow)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o) (__vfprintf)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+                              ./src/drawTree.o (puts)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(setvbuf.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o) (setvbuf)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(sin.o)
+                              ./src/drawTree.o (sin)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+                              ./src/drawTree.o (rand)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(strlen.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o) (strlen)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o) (__flsbuf)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fdopen.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o) (_fdopen)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fflush.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o) (_fflush)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_frexpl.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o) (_frexpl)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o) (__huge_val)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_ldexpl.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o) (_ldexpl)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o) (_sincos)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o) (_Cwritebuf)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o) (malloc)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(errno.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o) (errno)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fabs.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o) (fabs)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o) (fclose)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o) (fflush)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(frexp.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o) (frexp)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o) (fseek)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ftell.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o) (ftell)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ldexp.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o) (ldexp)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(raise.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o) (raise)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o) (remove)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o) (memcpy)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o) (__heaps)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o) (_sbrk)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_do_fflush.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o) (_do_fflush)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_check_heap.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o) (__check_heap_overflow)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+                              /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o) (__aeabi_idiv0)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                              ./src/drawTree.o (__aeabi_dmul)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                              ./src/drawTree.o (__aeabi_fmul)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o) (__aeabi_memcpy)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o) (__Ciob)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_appexit.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o) (__sys_appexit)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_close.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o) (__sys_close)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_flen.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o) (__sys_flen)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_istty.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o) (__sys_istty)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_remove.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o) (__sys_remove)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_rename.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o) (__sys_rename)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_seek.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o) (__sys_seek)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_time.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o) (__sys_time)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_tmpnam.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o) (__sys_tmpnam)
+/Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_write.o)
+                              /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o) (__sys_write)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .text          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x0000000000000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .group         0x0000000000000000        0x8 ./src/crp.o
+ .group         0x0000000000000000        0x8 ./src/crp.o
+ .text          0x0000000000000000        0x0 ./src/crp.o
+ .data          0x0000000000000000        0x0 ./src/crp.o
+ .bss           0x0000000000000000        0x0 ./src/crp.o
+ .debug_macro   0x0000000000000000      0x8c8 ./src/crp.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/drawTree.o
+ .text          0x0000000000000000        0x0 ./src/drawTree.o
+ .data          0x0000000000000000        0x0 ./src/drawTree.o
+ .bss           0x0000000000000000        0x0 ./src/drawTree.o
+ .text.DrawTree
+                0x0000000000000000        0xc ./src/drawTree.o
+ .text.RotateFromZero
+                0x0000000000000000      0x164 ./src/drawTree.o
+ .debug_macro   0x0000000000000000      0x8c8 ./src/drawTree.o
+ .debug_macro   0x0000000000000000       0x34 ./src/drawTree.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .group         0x0000000000000000        0x8 ./src/ssp.o
+ .text          0x0000000000000000        0x0 ./src/ssp.o
+ .data          0x0000000000000000        0x0 ./src/ssp.o
+ .bss           0x0000000000000000        0x0 ./src/ssp.o
+ .text.SSP1Init
+                0x0000000000000000       0xa8 ./src/ssp.o
+ .text.SSP1SendReceive
+                0x0000000000000000       0x34 ./src/ssp.o
+ .text.SSPReceive
+                0x0000000000000000       0x84 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x8c8 ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x1c ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x3a ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x10 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x12d ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x5b2 ./src/ssp.o
+ .debug_macro   0x0000000000000000       0x2d ./src/ssp.o
+ .debug_macro   0x0000000000000000      0xbb1 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x2c7 ./src/ssp.o
+ .debug_macro   0x0000000000000000      0x118 ./src/ssp.o
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .group         0x0000000000000000        0x8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .text          0x0000000000000000        0x0 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .data          0x0000000000000000        0x0 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x0000000000000000        0x0 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xb8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .data.SystemCoreClock
+                0x0000000000000000        0x4 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x10 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x12d /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x5b2 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x1c /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x3a /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000       0x2d /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0xbb1 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x0000000000000000      0x2c7 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memset.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memset.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memset.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.fprintf  0x0000000000000000       0x30 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.printf_char
+                0x0000000000000000       0x34 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.snprintf
+                0x0000000000000000       0x68 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x1c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.vprintf  0x0000000000000000       0x24 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.vsprintf
+                0x0000000000000000       0x5c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+ .text._terminateio
+                0x0000000000000000       0x50 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text.no_fp_display
+                0x0000000000000000        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._fprintf
+                0x0000000000000000       0x30 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._printf_char
+                0x0000000000000000       0x34 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._sprintf
+                0x0000000000000000       0x6c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._snprintf
+                0x0000000000000000       0x68 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._vfprintf
+                0x0000000000000000       0x20 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._vprintf
+                0x0000000000000000       0x24 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._vsprintf
+                0x0000000000000000       0x5c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._vsnprintf
+                0x0000000000000000       0x5c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text._printf  0x0000000000000000       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+ .text.puts_char
+                0x0000000000000000       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(setvbuf.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(setvbuf.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(setvbuf.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(sin.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(sin.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(sin.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.__rand   0x0000000000000000       0x20 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.__srand  0x0000000000000000        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text._exit_init
+                0x0000000000000000        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.atexit   0x0000000000000000       0x24 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.exit     0x0000000000000000       0x2c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.abort    0x0000000000000000       0x12 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.labs     0x0000000000000000        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.div      0x0000000000000000       0x10 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text.ldiv     0x0000000000000000       0x10 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .bss._exitvector
+                0x0000000000000000       0x84 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .bss._number_of_exit_functions
+                0x0000000000000000        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .data.next     0x0000000000000000        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(strlen.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(strlen.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(strlen.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fdopen.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fdopen.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fdopen.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fflush.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fflush.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fflush.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_frexpl.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_frexpl.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_frexpl.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_ldexpl.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_ldexpl.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_ldexpl.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .text.calloc   0x0000000000000000       0x50 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .text.realloc  0x0000000000000000       0x24 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(errno.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(errno.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(errno.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fabs.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fabs.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fabs.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(frexp.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(frexp.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(frexp.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ftell.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ftell.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ftell.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ldexp.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ldexp.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ldexp.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(raise.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(raise.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(raise.o)
+ .text.raise    0x0000000000000000        0x6 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(raise.o)
+ .comment       0x0000000000000000       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(raise.o)
+ .ARM.attributes
+                0x0000000000000000       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(raise.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+ .text.rename   0x0000000000000000       0x28 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o)
+ .text.memcpy   0x0000000000000000        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o)
+ .comment       0x0000000000000000       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x0000000000000000       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+ .text._init_alloc
+                0x0000000000000000       0x14 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_do_fflush.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_do_fflush.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_do_fflush.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_check_heap.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_check_heap.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_check_heap.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_ldivmod
+                0x0000000000000000       0x26 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text.__aeabi_division_uldivmod
+                0x0000000000000000      0x174 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_64.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .text.__aeabi_division_idiv0
+                0x0000000000000000        0x2 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x0000000000000000       0x1c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x0000000000000000        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x0000000000000000       0x30 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x0000000000000000       0x70 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x0000000000000000       0x5a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x0000000000000000       0x88 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ui2d
+                0x0000000000000000        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x0000000000000000       0x1a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x0000000000000000        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x0000000000000000       0x1a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x0000000000000000       0x24 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x0000000000000000       0x14 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fdiv
+                0x0000000000000000       0xc0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x0000000000000000        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x0000000000000000        0x6 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2uiz
+                0x0000000000000000       0x28 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x0000000000000000       0x5c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x0000000000000000       0x3e /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x0000000000000000       0x48 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ui2f
+                0x0000000000000000        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x0000000000000000       0x1a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x0000000000000000        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x0000000000000000       0x1e /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmplt
+                0x0000000000000000       0x3a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpgt
+                0x0000000000000000       0x3a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmple
+                0x0000000000000000       0x3e /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpge
+                0x0000000000000000       0x3e /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x0000000000000000       0x1a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x0000000000000000       0x20 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x0000000000000000        0xa /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memcpy
+                0x0000000000000000       0x34 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x0000000000000000       0x1c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x0000000000000000        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x0000000000000000        0xa /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_appexit.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_appexit.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_appexit.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_close.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_close.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_close.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_flen.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_flen.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_flen.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_istty.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_istty.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_istty.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_remove.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_remove.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_remove.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_rename.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_rename.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_rename.o)
+ .text.__sys_rename
+                0x0000000000000000        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_rename.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_rename.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_seek.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_seek.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_seek.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_time.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_time.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_time.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_tmpnam.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_tmpnam.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_tmpnam.o)
+ .text          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_write.o)
+ .data          0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_write.o)
+ .bss           0x0000000000000000        0x0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_write.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x0000000000000000 0x0000000000080000 xr
+RamLoc32         0x0000000010000000 0x0000000000008000 xrw
+RamAHB32         0x000000002007c000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/drawTree.o
+LOAD ./src/ssp.o
+LOAD /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a
+START GROUP
+LOAD /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a
+LOAD /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a
+LOAD /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a
+END GROUP
+                0x0000000000000000                __base_MFlash512 = 0x0
+                0x0000000000000000                __base_Flash = 0x0
+                0x0000000000080000                __top_MFlash512 = 0x80000
+                0x0000000000080000                __top_Flash = 0x80000
+                0x0000000010000000                __base_RamLoc32 = 0x10000000
+                0x0000000010000000                __base_RAM = 0x10000000
+                0x0000000010008000                __top_RamLoc32 = 0x10008000
+                0x0000000010008000                __top_RAM = 0x10008000
+                0x000000002007c000                __base_RamAHB32 = 0x2007c000
+                0x000000002007c000                __base_RAM2 = 0x2007c000
+                0x0000000020084000                __top_RamAHB32 = 0x20084000
+                0x0000000020084000                __top_RAM2 = 0x20084000
+
+.text           0x0000000000000000     0x48b4
+ FILL mask 0xff
+                0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x0000000000000000                g_pfnVectors
+                0x00000000000000cc                . = ALIGN (0x4)
+                0x00000000000000cc                __section_table_start = .
+                0x00000000000000cc                __data_section_table = .
+                0x00000000000000cc        0x4 LONG 0x48b4 LOADADDR (.data)
+                0x00000000000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x00000000000000d4        0x4 LONG 0xf0 SIZEOF (.data)
+                0x00000000000000d8        0x4 LONG 0x48b4 LOADADDR (.data_RAM2)
+                0x00000000000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x00000000000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x00000000000000e4                __data_section_table_end = .
+                0x00000000000000e4                __bss_section_table = .
+                0x00000000000000e4        0x4 LONG 0x100000f0 ADDR (.bss)
+                0x00000000000000e8        0x4 LONG 0x224 SIZEOF (.bss)
+                0x00000000000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x00000000000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x00000000000000f4                __bss_section_table_end = .
+                0x00000000000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x00000000000000f4      0x12c ./src/cr_startup_lpc175x_6x.o
+                0x00000000000000f4                data_init
+                0x0000000000000136                bss_init
+                0x000000000000016c                ResetISR
+                0x00000000000001e4                NMI_Handler
+                0x00000000000001ea                HardFault_Handler
+                0x00000000000001f0                MemManage_Handler
+                0x00000000000001f6                BusFault_Handler
+                0x00000000000001fc                UsageFault_Handler
+                0x0000000000000202                SVC_Handler
+                0x0000000000000208                DebugMon_Handler
+                0x000000000000020e                PendSV_Handler
+                0x0000000000000214                SysTick_Handler
+                0x000000000000021a                UART1_IRQHandler
+                0x000000000000021a                EINT3_IRQHandler
+                0x000000000000021a                CANActivity_IRQHandler
+                0x000000000000021a                TIMER3_IRQHandler
+                0x000000000000021a                UART0_IRQHandler
+                0x000000000000021a                USBActivity_IRQHandler
+                0x000000000000021a                TIMER2_IRQHandler
+                0x000000000000021a                IntDefaultHandler
+                0x000000000000021a                PLL0_IRQHandler
+                0x000000000000021a                CAN_IRQHandler
+                0x000000000000021a                PLL1_IRQHandler
+                0x000000000000021a                I2S_IRQHandler
+                0x000000000000021a                I2C2_IRQHandler
+                0x000000000000021a                RTC_IRQHandler
+                0x000000000000021a                TIMER0_IRQHandler
+                0x000000000000021a                SPI_IRQHandler
+                0x000000000000021a                EINT1_IRQHandler
+                0x000000000000021a                TIMER1_IRQHandler
+                0x000000000000021a                UART2_IRQHandler
+                0x000000000000021a                ADC_IRQHandler
+                0x000000000000021a                USB_IRQHandler
+                0x000000000000021a                BOD_IRQHandler
+                0x000000000000021a                I2C0_IRQHandler
+                0x000000000000021a                WDT_IRQHandler
+                0x000000000000021a                QEI_IRQHandler
+                0x000000000000021a                EINT0_IRQHandler
+                0x000000000000021a                RIT_IRQHandler
+                0x000000000000021a                DMA_IRQHandler
+                0x000000000000021a                UART3_IRQHandler
+                0x000000000000021a                MCPWM_IRQHandler
+                0x000000000000021a                ENET_IRQHandler
+                0x000000000000021a                PWM1_IRQHandler
+                0x000000000000021a                I2C1_IRQHandler
+                0x000000000000021a                EINT2_IRQHandler
+                0x00000000000002fc                . = 0x2fc
+ *fill*         0x0000000000000220       0xdc ff
+                0x00000000000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x00000000000002fc        0x4 ./src/crp.o
+                0x00000000000002fc                CRP_WORD
+                0x0000000000000300                PROVIDE (__CRP_WORD_END__, .)
+                0x0000000000000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.spiwrite
+                0x0000000000000300       0x40 ./src/drawTree.o
+                0x0000000000000300                spiwrite
+ .text.writecommand
+                0x0000000000000340       0x2c ./src/drawTree.o
+                0x0000000000000340                writecommand
+ .text.writedata
+                0x000000000000036c       0x2c ./src/drawTree.o
+                0x000000000000036c                writedata
+ .text.writeword
+                0x0000000000000398       0x2e ./src/drawTree.o
+                0x0000000000000398                writeword
+ .text.write888
+                0x00000000000003c6       0x4e ./src/drawTree.o
+                0x00000000000003c6                write888
+ .text.setAddrWindow
+                0x0000000000000414       0x52 ./src/drawTree.o
+                0x0000000000000414                setAddrWindow
+ .text.fillrect
+                0x0000000000000466       0x68 ./src/drawTree.o
+                0x0000000000000466                fillrect
+ .text.lcddelay
+                0x00000000000004ce       0x2e ./src/drawTree.o
+                0x00000000000004ce                lcddelay
+ .text.lcd_init
+                0x00000000000004fc       0xc4 ./src/drawTree.o
+                0x00000000000004fc                lcd_init
+ .text.drawPixel
+                0x00000000000005c0       0x6c ./src/drawTree.o
+                0x00000000000005c0                drawPixel
+ .text.drawLine
+                0x000000000000062c      0x18e ./src/drawTree.o
+                0x000000000000062c                drawLine
+ *fill*         0x00000000000007ba        0x6 ff
+ .text.Rotate   0x00000000000007c0      0x454 ./src/drawTree.o
+                0x00000000000007c0                Rotate
+ .text.branchPoint
+                0x0000000000000c14      0x10c ./src/drawTree.o
+                0x0000000000000c14                branchPoint
+ .text.drawTree
+                0x0000000000000d20      0x294 ./src/drawTree.o
+                0x0000000000000d20                drawTree
+ .text.main     0x0000000000000fb4       0xc4 ./src/drawTree.o
+                0x0000000000000fb4                main
+ .text.NVIC_EnableIRQ
+                0x0000000000001078       0x30 ./src/ssp.o
+ .text.SSP0_IRQHandler
+                0x00000000000010a8       0x70 ./src/ssp.o
+                0x00000000000010a8                SSP0_IRQHandler
+ .text.SSP1_IRQHandler
+                0x0000000000001118       0x70 ./src/ssp.o
+                0x0000000000001118                SSP1_IRQHandler
+ .text.SSP_SSELToggle
+                0x0000000000001188       0x68 ./src/ssp.o
+                0x0000000000001188                SSP_SSELToggle
+ .text.SSP0Init
+                0x00000000000011f0       0xc0 ./src/ssp.o
+                0x00000000000011f0                SSP0Init
+ .text.SSPSend  0x00000000000012b0       0xa0 ./src/ssp.o
+                0x00000000000012b0                SSPSend
+ .text.SystemInit
+                0x0000000000001350       0xdc /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+                0x0000000000001350                SystemInit
+ .text.__main   0x000000000000142c        0xe /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o)
+                0x000000000000142c                __main
+                0x000000000000142c                __CR_SEMIHOST
+ .text.memset   0x000000000000143a        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memset.o)
+                0x000000000000143a                memset
+ *fill*         0x000000000000143e        0x2 ff
+ .text.cos      0x0000000000001440       0x60 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o)
+                0x0000000000001440                cos
+ .text.time     0x00000000000014a0        0xe /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o)
+                0x00000000000014a0                time
+ .text.fp_round
+                0x00000000000014ae       0x4c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.pr_dec.constprop.1
+                0x00000000000014fa       0x26 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.sprintf  0x0000000000001520       0x6c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+                0x0000000000001520                sprintf
+ *fill*         0x000000000000158c        0x4 ff
+ .text.fp_display
+                0x0000000000001590      0x95c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .text.vsnprintf
+                0x0000000000001eec       0x5c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+                0x0000000000001eec                vsnprintf
+ .text.printf   0x0000000000001f48       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+                0x0000000000001f48                printf
+ .text._initio  0x0000000000001f9c       0x78 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+                0x0000000000001f9c                _initio
+ *fill*         0x0000000000002014        0x4 ff
+ .text.pow      0x0000000000002018      0x554 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+                0x0000000000002018                pow
+ .text.__vfprintf
+                0x000000000000256c      0xb68 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+                0x000000000000256c                __vfprintf
+ .text.puts     0x00000000000030d4       0x34 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+                0x00000000000030d4                puts
+ .text.setvbuf  0x0000000000003108       0x40 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(setvbuf.o)
+                0x0000000000003108                setvbuf
+ .text.sin      0x0000000000003148       0x34 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(sin.o)
+                0x0000000000003148                sin
+ .text.rand     0x000000000000317c       0x3c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+                0x000000000000317c                rand
+ .text.srand    0x00000000000031b8       0x40 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+                0x00000000000031b8                srand
+ .text.abs      0x00000000000031f8        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+                0x00000000000031f8                abs
+ .text.strlen   0x0000000000003200       0x4a /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(strlen.o)
+                0x0000000000003200                strlen
+ .text._deferredlazyseek
+                0x000000000000324a       0x40 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+                0x000000000000324a                _deferredlazyseek
+ .text.__flsbuf
+                0x000000000000328a      0x148 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+                0x000000000000328a                __flsbuf
+ .text._fdopen  0x00000000000033d2       0x68 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fdopen.o)
+                0x00000000000033d2                _fdopen
+ .text._fflush  0x000000000000343a       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fflush.o)
+                0x000000000000343a                _fflush
+ .text._frexpl  0x000000000000348e       0x58 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_frexpl.o)
+                0x000000000000348e                _frexpl
+ *fill*         0x00000000000034e6        0x2 ff
+ .text._ldexpl  0x00000000000034e8       0x4c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_ldexpl.o)
+                0x00000000000034e8                _ldexpl
+ *fill*         0x0000000000003534        0x4 ff
+ .text._sincos  0x0000000000003538      0x1fc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o)
+                0x0000000000003538                _sincos
+ .text._Cwritebuf
+                0x0000000000003734       0x6c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o)
+                0x0000000000003734                _Cwritebuf
+ .text.malloc   0x00000000000037a0       0xc4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+                0x00000000000037a0                malloc
+ .text.free     0x0000000000003864       0x30 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+                0x0000000000003864                free
+ .text._Csys_alloc
+                0x0000000000003894       0x20 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+                0x0000000000003894                _Csys_alloc
+ .text.fabs     0x00000000000038b4       0x1e /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fabs.o)
+                0x00000000000038b4                fabs
+ .text.fclose   0x00000000000038d2       0x58 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o)
+                0x00000000000038d2                fclose
+ *fill*         0x000000000000392a        0x2 ff
+ .text.fflush   0x000000000000392c       0x44 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o)
+                0x000000000000392c                fflush
+ .text.frexp    0x0000000000003970       0x58 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(frexp.o)
+                0x0000000000003970                frexp
+ .text.fseek    0x00000000000039c8      0x100 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o)
+                0x00000000000039c8                fseek
+ .text.ftell    0x0000000000003ac8       0x48 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ftell.o)
+                0x0000000000003ac8                ftell
+ .text.ldexp    0x0000000000003b10       0x4c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ldexp.o)
+                0x0000000000003b10                ldexp
+ .text.remove   0x0000000000003b5c       0x14 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+                0x0000000000003b5c                remove
+ .text._sbrk    0x0000000000003b70       0x3c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o)
+                0x0000000000003b70                _sbrk
+ .text._do_fflush
+                0x0000000000003bac       0x40 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_do_fflush.o)
+                0x0000000000003bac                _do_fflush
+ .text.__check_heap_overflow
+                0x0000000000003bec       0x18 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_check_heap.o)
+                0x0000000000003bec                __check_heap_overflow
+ .text.__aeabi_dmul
+                0x0000000000003c04      0x10c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000003c04                __aeabi_dmul
+ .text.__aeabi_ddiv
+                0x0000000000003d10      0x134 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000003d10                __aeabi_ddiv
+ .text.__aeabi_dsub
+                0x0000000000003e44      0x1dc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000003e44                __aeabi_dsub
+ .text.__aeabi_dadd
+                0x0000000000004020      0x10c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000004020                __aeabi_dadd
+ .text.__aeabi_d2f
+                0x000000000000412c       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x000000000000412c                __aeabi_d2f
+ .text.__aeabi_d2iz
+                0x0000000000004180       0x40 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000004180                __aeabi_d2iz
+ .text.__bhs_ui2d
+                0x00000000000041c0       0x46 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x00000000000041c0                __bhs_ui2d
+ .text.__aeabi_i2d
+                0x0000000000004206       0x12 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000004206                __aeabi_i2d
+ .text.__aeabi_dcmpeq
+                0x0000000000004218       0x2c /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000004218                __aeabi_dcmpeq
+ .text.__aeabi_dcmplt
+                0x0000000000004244       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000004244                __aeabi_dcmplt
+ .text.__aeabi_dcmpgt
+                0x0000000000004298       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000004298                __aeabi_dcmpgt
+ .text.__aeabi_dcmple
+                0x00000000000042ec       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x00000000000042ec                __aeabi_dcmple
+ .text.__aeabi_dcmpge
+                0x0000000000004340       0x54 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+                0x0000000000004340                __aeabi_dcmpge
+ .text.__aeabi_fmul
+                0x0000000000004394       0xb0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                0x0000000000004394                __aeabi_fmul
+ .text.__aeabi_fsub
+                0x0000000000004444       0xe0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                0x0000000000004444                __aeabi_fsub
+ .text.__aeabi_fadd
+                0x0000000000004524       0xac /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                0x0000000000004524                __aeabi_fadd
+ .text.__aeabi_f2iz
+                0x00000000000045d0       0x36 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                0x00000000000045d0                __aeabi_f2iz
+ .text.__bhs_ui2f
+                0x0000000000004606       0x26 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                0x0000000000004606                __bhs_ui2f
+ .text.__aeabi_i2f
+                0x000000000000462c       0x12 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                0x000000000000462c                __aeabi_i2f
+ *fill*         0x000000000000463e        0x2 ff
+ .text.__aeabi_f2d
+                0x0000000000004640       0x38 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+                0x0000000000004640                __aeabi_f2d
+ .text.__aeabi_memset_lowlevel
+                0x0000000000004678       0x32 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+                0x0000000000004678                __aeabi_lowlevel_memset
+ *fill*         0x00000000000046aa        0x2 ff
+ .text.__sys_appexit
+                0x00000000000046ac        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_appexit.o)
+                0x00000000000046ac                __exit
+                0x00000000000046ac                __sys_appexit
+ .text.__sys_close
+                0x00000000000046b8        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_close.o)
+                0x00000000000046b8                __sys_close
+ .text.__sys_flen
+                0x00000000000046c4        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_flen.o)
+                0x00000000000046c4                __sys_flen
+ .text.__sys_istty
+                0x00000000000046d0        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_istty.o)
+                0x00000000000046d0                __sys_istty
+ .text.__sys_remove
+                0x00000000000046dc        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_remove.o)
+                0x00000000000046dc                __sys_remove
+ .text.__sys_seek
+                0x00000000000046e8        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_seek.o)
+                0x00000000000046e8                __sys_seek
+ .text.__sys_time
+                0x00000000000046f4        0x6 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_time.o)
+                0x00000000000046f4                __sys_time
+ .text.__sys_tmpnam
+                0x00000000000046fa        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_tmpnam.o)
+                0x00000000000046fa                __sys_tmpnam
+ .text.__sys_write
+                0x0000000000004706        0xc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_write.o)
+                0x0000000000004706                __sys_write
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x0000000000004712        0x2 ff
+ .rodata        0x0000000000004714       0x38 ./src/drawTree.o
+ .rodata.fp_display.str1.1
+                0x000000000000474c       0x34 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+                                         0x35 (size before relaxing)
+ .rodata._initio.str1.1
+                0x0000000000004780        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+ *fill*         0x0000000000004784        0x4 ff
+ .rodata.a1.3944
+                0x0000000000004788       0x88 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+ .rodata.a2.3945
+                0x0000000000004810       0x40 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+ .rodata.__vfprintf.str1.1
+                0x0000000000004850       0x31 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+                                         0x38 (size before relaxing)
+ .rodata.puts.str1.1
+                0x0000000000004881       0x31 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+                                          0x2 (size before relaxing)
+ *fill*         0x0000000000004881        0x7 ff
+ .rodata.__huge_val
+                0x0000000000004888        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+                0x0000000000004888                __huge_val
+ .rodata.__huge_vall
+                0x0000000000004890        0x8 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+                0x0000000000004890                __huge_vall
+ .rodata._Csys_alloc.str1.1
+                0x0000000000004898       0x18 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .rodata.__num_Ciob_streams
+                0x00000000000048b0        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+                0x00000000000048b0                __num_Ciob_streams
+                0x00000000000048b4                . = ALIGN (0x4)
+
+.glue_7         0x00000000000048b4        0x0
+ .glue_7        0x00000000000048b4        0x0 linker stubs
+
+.glue_7t        0x00000000000048b4        0x0
+ .glue_7t       0x00000000000048b4        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000048b4        0x0
+ .vfp11_veneer  0x00000000000048b4        0x0 linker stubs
+
+.v4_bx          0x00000000000048b4        0x0
+ .v4_bx         0x00000000000048b4        0x0 linker stubs
+
+.iplt           0x00000000000048b4        0x0
+ .iplt          0x00000000000048b4        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.rel.dyn        0x00000000000048b4        0x0
+ .rel.iplt      0x00000000000048b4        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000000000048b4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000000000048b4                __exidx_end = .
+                0x00000000000048b4                _etext = .
+
+.data_RAM2      0x000000002007c000        0x0 load address 0x00000000000048b4
+ FILL mask 0xff
+                [!provide]                        PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x000000002007c000                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x0000000010000000        0x0
+ *(.bss.$RESERVED*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _end_uninit_RESERVED = .
+
+.data           0x0000000010000000       0xf0 load address 0x00000000000048b4
+ FILL mask 0xff
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data._height  0x0000000010000000        0x4 ./src/drawTree.o
+                0x0000000010000000                _height
+ .data._width   0x0000000010000004        0x4 ./src/drawTree.o
+                0x0000000010000004                _width
+ .data.lambda   0x0000000010000008        0x4 ./src/drawTree.o
+                0x0000000010000008                lambda
+ .data._random_j
+                0x000000001000000c        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .data._random_k
+                0x0000000010000010        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .data._random_number_seed
+                0x0000000010000014       0xdc /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+                0x00000000100000f0                . = ALIGN (0x4)
+                0x00000000100000f0                _edata = .
+
+.igot.plt       0x00000000100000f0        0x0 load address 0x00000000000049a4
+ .igot.plt      0x00000000100000f0        0x0 ./src/cr_startup_lpc175x_6x.o
+
+.bss_RAM2       0x000000002007c000        0x0
+                [!provide]                        PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x000000002007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                        PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x00000000100000f0      0x224
+                0x00000000100000f0                _bss = .
+ *(.bss*)
+ .bss.src_addr  0x00000000100000f0       0x10 ./src/drawTree.o
+                0x00000000100000f0                src_addr
+ .bss.dest_addr
+                0x0000000010000100       0x10 ./src/drawTree.o
+                0x0000000010000100                dest_addr
+ .bss.interrupt0RxStat
+                0x0000000010000110        0x4 ./src/ssp.o
+                0x0000000010000110                interrupt0RxStat
+ .bss.interrupt0OverRunStat
+                0x0000000010000114        0x4 ./src/ssp.o
+                0x0000000010000114                interrupt0OverRunStat
+ .bss.interrupt0RxTimeoutStat
+                0x0000000010000118        0x4 ./src/ssp.o
+                0x0000000010000118                interrupt0RxTimeoutStat
+ .bss.interrupt1RxStat
+                0x000000001000011c        0x4 ./src/ssp.o
+                0x000000001000011c                interrupt1RxStat
+ .bss.interrupt1OverRunStat
+                0x0000000010000120        0x4 ./src/ssp.o
+                0x0000000010000120                interrupt1OverRunStat
+ .bss.interrupt1RxTimeoutStat
+                0x0000000010000124        0x4 ./src/ssp.o
+                0x0000000010000124                interrupt1RxTimeoutStat
+ .bss.errno     0x0000000010000128        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(errno.o)
+                0x0000000010000128                errno
+ .bss.__end_of_heap
+                0x000000001000012c        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+                0x000000001000012c                __end_of_heap
+ .bss.__heaps   0x0000000010000130        0x4 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+                0x0000000010000130                __heaps
+ .bss.__Ciob    0x0000000010000134      0x1e0 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+                0x0000000010000134                __Ciob
+ *(COMMON)
+                0x0000000010000314                . = ALIGN (0x4)
+                0x0000000010000314                _ebss = .
+                [!provide]                        PROVIDE (end, .)
+
+.noinit_RAM2    0x000000002007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x000000002007c000                . = ALIGN (0x4)
+
+.noinit         0x0000000010000314        0x0
+                0x0000000010000314                _noinit = .
+ *(.noinit*)
+                0x0000000010000314                . = ALIGN (0x4)
+                0x0000000010000314                _end_noinit = .
+                0x0000000010000314                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xffffffffefff74de                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+                0x0000000000000000                _image_start = LOADADDR (.text)
+                0x00000000000049a4                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00000000000049a4                _image_size = (_image_end - _image_start)
+OUTPUT(DrawLine.axf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x1e34
+ .debug_info    0x0000000000000000      0x25c ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x000000000000025c       0x3f ./src/crp.o
+ .debug_info    0x000000000000029b      0xbcf ./src/drawTree.o
+ .debug_info    0x0000000000000e6a      0xc76 ./src/ssp.o
+ .debug_info    0x0000000000001ae0      0x354 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_abbrev   0x0000000000000000      0x735
+ .debug_abbrev  0x0000000000000000      0x114 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x0000000000000114       0x36 ./src/crp.o
+ .debug_abbrev  0x000000000000014a      0x258 ./src/drawTree.o
+ .debug_abbrev  0x00000000000003a2      0x28b ./src/ssp.o
+ .debug_abbrev  0x000000000000062d      0x108 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_aranges  0x0000000000000000      0x1c0
+ .debug_aranges
+                0x0000000000000000       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x0000000000000080       0x18 ./src/crp.o
+ .debug_aranges
+                0x0000000000000098       0xa0 ./src/drawTree.o
+ .debug_aranges
+                0x0000000000000138       0x60 ./src/ssp.o
+ .debug_aranges
+                0x0000000000000198       0x28 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_ranges   0x0000000000000000      0x168
+ .debug_ranges  0x0000000000000000       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x0000000000000070       0x90 ./src/drawTree.o
+ .debug_ranges  0x0000000000000100       0x50 ./src/ssp.o
+ .debug_ranges  0x0000000000000150       0x18 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_macro    0x0000000000000000     0x2e55
+ .debug_macro   0x0000000000000000       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x000000000000001d      0x8c8 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000000008e5       0x1a ./src/crp.o
+ .debug_macro   0x00000000000008ff       0x34 ./src/crp.o
+ .debug_macro   0x0000000000000933      0x170 ./src/drawTree.o
+ .debug_macro   0x0000000000000aa3       0x82 ./src/drawTree.o
+ .debug_macro   0x0000000000000b25       0x1c ./src/drawTree.o
+ .debug_macro   0x0000000000000b41       0x3a ./src/drawTree.o
+ .debug_macro   0x0000000000000b7b       0x10 ./src/drawTree.o
+ .debug_macro   0x0000000000000b8b      0x12d ./src/drawTree.o
+ .debug_macro   0x0000000000000cb8      0x5b2 ./src/drawTree.o
+ .debug_macro   0x000000000000126a       0x2d ./src/drawTree.o
+ .debug_macro   0x0000000000001297      0xbb1 ./src/drawTree.o
+ .debug_macro   0x0000000000001e48      0x2c7 ./src/drawTree.o
+ .debug_macro   0x000000000000210f      0x118 ./src/drawTree.o
+ .debug_macro   0x0000000000002227       0x28 ./src/drawTree.o
+ .debug_macro   0x000000000000224f       0x9a ./src/drawTree.o
+ .debug_macro   0x00000000000022e9       0x22 ./src/drawTree.o
+ .debug_macro   0x000000000000230b       0xc4 ./src/drawTree.o
+ .debug_macro   0x00000000000023cf       0x10 ./src/drawTree.o
+ .debug_macro   0x00000000000023df       0x81 ./src/ssp.o
+ .debug_macro   0x0000000000002460      0x12d /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .debug_macro   0x000000000000258d      0x8c8 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_line     0x0000000000000000      0xb8a
+ .debug_line    0x0000000000000000       0xd3 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x00000000000000d3       0x7c ./src/crp.o
+ .debug_line    0x000000000000014f      0x512 ./src/drawTree.o
+ .debug_line    0x0000000000000661      0x309 ./src/ssp.o
+ .debug_line    0x000000000000096a      0x220 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+
+.debug_str      0x0000000000000000     0xb61f
+ .debug_str     0x0000000000000000     0x2753 ./src/cr_startup_lpc175x_6x.o
+                                       0x2766 (size before relaxing)
+ .debug_str     0x0000000000002753       0xe9 ./src/crp.o
+                                       0x266a (size before relaxing)
+ .debug_str     0x000000000000283c     0x8441 ./src/drawTree.o
+                                       0xab6e (size before relaxing)
+ .debug_str     0x000000000000ac7d      0x5b4 ./src/ssp.o
+                                       0x9ff8 (size before relaxing)
+ .debug_str     0x000000000000b231      0x3ee /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+                                       0x99eb (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f ./src/cr_startup_lpc175x_6x.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 ./src/crp.o
+ .comment       0x000000000000007f       0x80 ./src/drawTree.o
+ .comment       0x000000000000007f       0x80 ./src/ssp.o
+ .comment       0x000000000000007f       0x80 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memset.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(setvbuf.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(sin.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(strlen.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fdopen.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fflush.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_frexpl.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_ldexpl.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(errno.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fabs.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(frexp.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ftell.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ldexp.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_do_fflush.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_check_heap.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .comment       0x000000000000007f       0x80 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+
+.ARM.attributes
+                0x0000000000000000       0x31
+ .ARM.attributes
+                0x0000000000000000       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x0000000000000033       0x33 ./src/crp.o
+ .ARM.attributes
+                0x0000000000000066       0x33 ./src/drawTree.o
+ .ARM.attributes
+                0x0000000000000099       0x33 ./src/ssp.o
+ .ARM.attributes
+                0x00000000000000cc       0x33 /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000000000000ff       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(_cr__main.o)
+ .ARM.attributes
+                0x0000000000000132       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(memset.o)
+ .ARM.attributes
+                0x0000000000000165       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cos.o)
+ .ARM.attributes
+                0x0000000000000198       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(cr_time.o)
+ .ARM.attributes
+                0x00000000000001cb       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fpprintf.o)
+ .ARM.attributes
+                0x00000000000001fe       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(initio.o)
+ .ARM.attributes
+                0x0000000000000231       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(pow.o)
+ .ARM.attributes
+                0x0000000000000264       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(printf.o)
+ .ARM.attributes
+                0x0000000000000297       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(puts.o)
+ .ARM.attributes
+                0x00000000000002ca       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(setvbuf.o)
+ .ARM.attributes
+                0x00000000000002fd       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(sin.o)
+ .ARM.attributes
+                0x0000000000000330       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(stdlib.o)
+ .ARM.attributes
+                0x0000000000000363       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x0000000000000396       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_deferredlazyseek.o)
+ .ARM.attributes
+                0x00000000000003c9       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fdopen.o)
+ .ARM.attributes
+                0x00000000000003fc       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_fflush.o)
+ .ARM.attributes
+                0x000000000000042f       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_frexpl.o)
+ .ARM.attributes
+                0x0000000000000462       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_hugeval.o)
+ .ARM.attributes
+                0x0000000000000495       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_ldexpl.o)
+ .ARM.attributes
+                0x00000000000004c8       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_sincos.o)
+ .ARM.attributes
+                0x00000000000004fb       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_writebuf.o)
+ .ARM.attributes
+                0x000000000000052e       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(alloc.o)
+ .ARM.attributes
+                0x0000000000000561       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(errno.o)
+ .ARM.attributes
+                0x0000000000000594       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fabs.o)
+ .ARM.attributes
+                0x00000000000005c7       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fclose.o)
+ .ARM.attributes
+                0x00000000000005fa       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fflush.o)
+ .ARM.attributes
+                0x000000000000062d       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(frexp.o)
+ .ARM.attributes
+                0x0000000000000660       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(fseek.o)
+ .ARM.attributes
+                0x0000000000000693       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ftell.o)
+ .ARM.attributes
+                0x00000000000006c6       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(ldexp.o)
+ .ARM.attributes
+                0x00000000000006f9       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(remove.o)
+ .ARM.attributes
+                0x000000000000072c       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(__init_alloc.o)
+ .ARM.attributes
+                0x000000000000075f       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x0000000000000792       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_do_fflush.o)
+ .ARM.attributes
+                0x00000000000007c5       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_c.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x00000000000007f8       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x000000000000082b       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x000000000000085e       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x000000000000087f       0x33 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__ciob.o)
+ .ARM.attributes
+                0x00000000000008b2       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_appexit.o)
+ .ARM.attributes
+                0x00000000000008d3       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_close.o)
+ .ARM.attributes
+                0x00000000000008f4       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_flen.o)
+ .ARM.attributes
+                0x0000000000000915       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_istty.o)
+ .ARM.attributes
+                0x0000000000000936       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_remove.o)
+ .ARM.attributes
+                0x0000000000000957       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_seek.o)
+ .ARM.attributes
+                0x0000000000000978       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_time.o)
+ .ARM.attributes
+                0x0000000000000999       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_tmpnam.o)
+ .ARM.attributes
+                0x00000000000009ba       0x21 /Applications/MCUXpressoIDE_10.1.1_606/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libcr_semihost.a(__sys_write.o)
+
+.debug_frame    0x0000000000000000      0x5c0
+ .debug_frame   0x0000000000000000      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x0000000000000170      0x2a4 ./src/drawTree.o
+ .debug_frame   0x0000000000000414      0x170 ./src/ssp.o
+ .debug_frame   0x0000000000000584       0x3c /Users/Jerry/MCUXpressoIDE/workspace/CMSIS_CORE_LPC17xx/Debug/libCMSIS_CORE_LPC17xx.a(system_LPC17xx.o)

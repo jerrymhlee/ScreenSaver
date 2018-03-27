@@ -1,0 +1,421 @@
+/*
+ ===============================================================================
+ Name        : DrawRect.c
+ Author      : $RJ
+ Version     :
+ Copyright   : $(copyright)
+ Description : main definition
+ ===============================================================================
+ */
+
+#include <cr_section_macros.h>
+#include <NXP/crp.h>
+#include "LPC17xx.h"                        /* LPC17xx definitions */
+#include "ssp.h"
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+
+
+
+/* Be careful with the port number and location number, because
+ 
+ some of the location may not exist in that port. */
+
+#define PORT_NUM            0
+
+
+uint8_t src_addr[SSP_BUFSIZE];
+uint8_t dest_addr[SSP_BUFSIZE];
+
+
+#define ST7735_TFTWIDTH 127
+#define ST7735_TFTHEIGHT 159
+
+#define ST7735_CASET 0x2A
+#define ST7735_RASET 0x2B
+#define ST7735_RAMWR 0x2C
+#define ST7735_SLPOUT 0x11
+#define ST7735_DISPON 0x29
+
+
+
+#define swap(x, y) {x = x + y; y = x - y; x = x - y ;}
+
+// defining color values
+#define LIGHTBLUE 0x00FFE0
+#define GREEN 0x00FF00
+#define DARKBLUE 0x000055
+#define BLACK 0x000000
+#define BLUE 0x0007FF
+#define RED 0xFF0000
+#define MAGENTA 0x00F81F
+#define WHITE 0xFFFFFF
+#define PURPLE 0xCC33FF
+#define BROWN 0x783F04
+#define GRASS 0XB6D7A8
+#define SKY 0XCFE2F3
+#define LEAF 0X4BCC14
+
+
+
+int _height = ST7735_TFTHEIGHT;
+int _width = ST7735_TFTWIDTH;
+
+
+void spiwrite(uint8_t c)
+
+{
+    
+    int pnum = 0;
+    src_addr[0] = c;
+    SSP_SSELToggle( pnum, 0 );
+    SSPSend( pnum, (uint8_t *)src_addr, 1 );
+    SSP_SSELToggle( pnum, 1 );
+}
+
+
+
+void writecommand(uint8_t c)
+
+{
+    LPC_GPIO0->FIOCLR |= (0x1<<21);
+    spiwrite(c);
+}
+
+
+
+void writedata(uint8_t c)
+
+{
+    LPC_GPIO0->FIOSET |= (0x1<<21);
+    spiwrite(c);
+}
+
+
+void writeword(uint16_t c)
+
+{
+    uint8_t d;
+    d = c >> 8;
+    writedata(d);
+    d = c & 0xFF;
+    writedata(d);
+}
+
+
+
+void write888(uint32_t color, uint32_t repeat)
+
+{
+    uint8_t red, green, blue;
+    int i;
+    red = (color >> 16);
+    green = (color >> 8) & 0xFF;
+    blue = color & 0xFF;
+    for (i = 0; i< repeat; i++) {
+        writedata(red);
+        writedata(green);
+        writedata(blue);
+    }
+}
+
+
+
+void setAddrWindow(uint16_t x0, uint16_t y0, uint16_t x1, uint16_t y1)
+
+{
+    writecommand(ST7735_CASET);
+    writeword(x0);
+    writeword(x1);
+    writecommand(ST7735_RASET);
+    writeword(y0);
+    writeword(y1);
+}
+
+
+void fillrect(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint32_t color)
+
+{
+    int16_t i;
+    int16_t width, height;
+    width = x1-x0+1;
+    height = y1-y0+1;
+    setAddrWindow(x0,y0,x1,y1);
+    writecommand(ST7735_RAMWR);
+    write888(color,width*height);
+}
+
+
+
+void lcddelay(int ms)
+
+{
+    
+    int count = 24000;
+    int i;
+    for ( i = count*ms; i--; i > 0);
+}
+
+
+
+void lcd_init()
+
+{
+    
+    int i;
+    printf("LCD Demo Begins!!!\n");
+    // Set pins P0.16, P0.21, P0.22 as output
+    LPC_GPIO0->FIODIR |= (0x1<<16);
+    LPC_GPIO0->FIODIR |= (0x1<<21);
+    LPC_GPIO0->FIODIR |= (0x1<<22);
+    // Hardware Reset Sequence
+    LPC_GPIO0->FIOSET |= (0x1<<22);
+    lcddelay(500);
+    
+    LPC_GPIO0->FIOCLR |= (0x1<<22);
+    lcddelay(500);
+    
+    LPC_GPIO0->FIOSET |= (0x1<<22);
+    lcddelay(500);
+    
+    // initialize buffers
+    for ( i = 0; i < SSP_BUFSIZE; i++ )
+    {
+        src_addr[i] = 0;
+        dest_addr[i] = 0;
+    }
+    
+    // Take LCD display out of sleep mode
+    writecommand(ST7735_SLPOUT);
+    lcddelay(200);
+    
+    // Turn LCD display on
+    writecommand(ST7735_DISPON);
+    lcddelay(200);
+    
+}
+
+
+void drawPixel(int16_t x, int16_t y, uint32_t color)
+
+{
+    
+    if ((x < 0) || (x >= _width) || (y < 0) || (y >= _height))
+        return;
+    
+    setAddrWindow(x, y, x + 1, y + 1);
+    writecommand(ST7735_RAMWR);
+    write888(color, 1);
+}
+
+
+
+/*****************************************************************************
+ 
+ 
+ ** Descriptions:        Draw line function
+ 
+ **
+ 
+ ** parameters:           Starting point (x0,y0), Ending point(x1,y1) and color
+ 
+ ** Returned value:        None
+ 
+ **
+ 
+ *****************************************************************************/
+
+
+void drawLine(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint32_t color)
+
+{
+    
+    int16_t slope = abs(y1 - y0) > abs(x1 - x0);
+    if (slope) {
+        swap(x0, y0);
+        swap(x1, y1);
+    }
+    
+    if (x0 > x1) {
+        swap(x0, x1);
+        swap(y0, y1);
+    }
+    
+    int16_t dx, dy;
+    dx = x1 - x0;
+    dy = abs(y1 - y0);
+    int16_t err = dx / 2;
+    int16_t ystep;
+    if (y0 < y1) {
+        ystep = 1;
+    }
+    
+    else {
+        ystep = -1;
+    }
+    
+    for (; x0 <= x1; x0++) {
+        if (slope) {
+            drawPixel(y0, x0, color);
+        }
+        
+        else {
+            drawPixel(x0, y0, color);
+        }
+        
+        err -= dy;
+        if (err < 0) {
+            y0 += ystep;
+            err += dx;
+        }
+    }
+}
+
+/*
+ Main fill()
+ */
+//void drawRectLine (int16_t top, int16_t down, int16_t left, int16_t right) {
+//    ;
+//}
+
+/*
+ Main drawRect()
+ */
+void drawRect(int p0_x, int p0_y, int p2_x, int p2_y, int16_t layers, int COLOR) {
+
+    //set 4 points
+    int16_t p1_x = p0_x;
+    int16_t p1_y = p2_y;
+    int16_t p3_x = p2_x;
+    int16_t p3_y = p0_y;
+    
+    //For loop
+    int16_t pTemp_x = p0_x;
+    int16_t pTemp_y = p0_y;
+    float lambda = 0;
+    for (int i = 0; i < layers; i++) {
+        pTemp_x = p0_x;
+        pTemp_y = p0_y;
+        
+        p0_x = p0_x + lambda * (p1_x - p0_x);
+        p0_y = p0_y + lambda * (p1_y - p0_y);
+        
+        p1_x = p1_x + lambda * (p2_x - p1_x);
+        p1_y = p1_y + lambda * (p2_y - p1_y);
+        
+        p2_x = p2_x + lambda * (p3_x - p2_x);
+        p2_y = p2_y + lambda * (p3_y - p2_y);
+        
+        p3_x = p3_x + lambda * (pTemp_x - p3_x);
+        p3_y = p3_y + lambda * (pTemp_y - p3_y);
+        
+        //        drawLine(x0,y0,x1,y1,PURPLE);
+        //p0 - p1
+        drawLine(p0_x, p0_y, p1_x, p1_y, COLOR);
+        //p1 - p2
+        drawLine(p1_x, p1_y, p2_x, p2_y, COLOR);
+        //p2 - p3
+        drawLine(p2_x, p2_y, p3_x, p3_y, COLOR);
+        //p3 - p0
+        drawLine(p3_x, p3_y, p0_x, p0_y, COLOR);
+        
+        lambda = 0.8;
+    }
+}
+
+void drawSquare(int p0_x, int p0_y, int length, int16_t layers, int COLOR, float userInputL) {
+
+    //set 4 points
+    int16_t p1_x = p0_x + length;
+    int16_t p1_y = p0_y;
+    int16_t p2_x = p1_x;
+    int16_t p2_y = p1_y + length;
+    int16_t p3_x = p0_x;
+    int16_t p3_y = p0_y + length;
+
+    //draw
+    int16_t pTemp_x = p0_x;
+    int16_t pTemp_y = p0_y;
+    float lambda = 0;
+    for (int i = 0; i < layers; i++) {
+        pTemp_x = p0_x;
+        pTemp_y = p0_y;
+
+        p0_x = p0_x + lambda * (p1_x - p0_x);
+        p0_y = p0_y + lambda * (p1_y - p0_y);
+
+        p1_x = p1_x + lambda * (p2_x - p1_x);
+        p1_y = p1_y + lambda * (p2_y - p1_y);
+
+        p2_x = p2_x + lambda * (p3_x - p2_x);
+        p2_y = p2_y + lambda * (p3_y - p2_y);
+
+        p3_x = p3_x + lambda * (pTemp_x - p3_x);
+        p3_y = p3_y + lambda * (pTemp_y - p3_y);
+
+        //        drawLine(x0,y0,x1,y1,PURPLE);
+        //p0 - p1
+        drawLine(p0_x, p0_y, p1_x, p1_y, COLOR);
+        //p1 - p2
+        drawLine(p1_x, p1_y, p2_x, p2_y, COLOR);
+        //p2 - p3
+        drawLine(p2_x, p2_y, p3_x, p3_y, COLOR);
+        //p3 - p0
+        drawLine(p3_x, p3_y, p0_x, p0_y, COLOR);
+
+        lambda = userInputL;
+    }
+}
+
+/*
+ 
+ Main Function main()
+ 
+ */
+
+
+
+int main (void)
+
+{
+    
+    uint32_t pnum = PORT_NUM;
+    pnum = 0 ;
+    if ( pnum == 0 )
+        SSP0Init();
+    
+    else
+        puts("Port number is not correct");
+    
+    lcd_init();
+    
+    fillrect(0, 0, ST7735_TFTWIDTH, ST7735_TFTHEIGHT, GRASS);
+    printf("ST7735_TFTWIDTH: %d \n", ST7735_TFTWIDTH);
+    printf("ST7735_TFTHEIGHT: %d \n", ST7735_TFTHEIGHT);
+    srand(time(0));
+    
+    int numOfSquare = 10;
+    int xPos = 0;
+    int yPos = 0;
+    int len = 0;
+    int level = 0;
+    int colorArray[13] = {BLACK, GREEN, RED, LIGHTBLUE, BLUE, DARKBLUE, MAGENTA, WHITE, PURPLE, BROWN, GRASS, SKY, LEAF};
+    int color = 0;
+
+    //Draw eight squares with random position
+    for(int i=1; i<=8; i++){
+    	xPos = rand() % 100 + 10;//xPos: 10~110
+    	yPos = rand() % 140 + 10;//yPos:10~150
+    	len = rand() % 85 + 15;//side length: 15~99
+    	level = rand() % 2 + 10;//level: 10 ~ 12
+    	drawSquare(xPos,yPos,len,level,colorArray[color++],0.8);
+    }
+    
+    
+
+    return 0;
+    
+}
+
