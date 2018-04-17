@@ -29,6 +29,7 @@
 // this code.
 //*****************************************************************************
 
+
 #if defined (__cplusplus)
 #ifdef __REDLIB__
 #error Redlib does not support C++
@@ -328,7 +329,9 @@ void NMI_Handler(void)
 
 __attribute__ ((section(".after_vectors")))
 void HardFault_Handler(void)
-{ while(1) {}
+{ while(1) {
+
+}
 }
 
 __attribute__ ((section(".after_vectors")))
